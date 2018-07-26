@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_close_tip">#FFFFFF</color>
+    <color name="main_open_tip">#445A63</color>
+    <color name="main_close_bg">#FF6464</color>
+    <color name="main_open_bg">#CFDBE4</color>
+    <color name="setting_title">#000000</color>
+    <color name="setting_detail">#000000</color>
+    <color name="setting_bg">#FFFFFF</color>
+
+</resources>

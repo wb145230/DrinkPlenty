@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Drink Plenty</string>
+    <string name="main_open_tips">Remind water\nservice to\nopen</string>
+    <string name="main_close_tips">Please turn on\nthe prompt\nservice</string>
+    <string name="main_switch_open_tips">On service</string>
+    <string name="main_switch_close_tips">Stop service</string>
+    <string name="setting_night_mode_title">Night Mode</string>
+    <string name="setting_night_mode_detail">23:33~08:33 will turn off the \nreminder service</string>
+    <string name="setting_app_version">Version:%1$s</string>
+
+</resources>
